@@ -1,0 +1,14 @@
+Testing Dividend Yield (Common)
+TEA - Price is 2 Dividend Yield is 0.00
+
+Testing Dividend Yield (Preferred)
+GIN - Price is 2 Dividend Yield is 1.00
+
+Testing P/E Ratio
+JOE - Price is 2 P/E Ratio is 0.15
+
+Testing Volume Weighted Stock Price
+Volume Weighted Stock Price is 3.69
+
+Testing All Share Index
+All Share Index is 22.64
